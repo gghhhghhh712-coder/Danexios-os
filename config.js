@@ -4,7 +4,7 @@
 
 module.exports = {
     // Bot Owner Configuration
-    ownerNumber: ['91xxxxxxxxxxx','917023951514'], // Add your number without + or spaces (e.g., 919876543210)
+    ownerNumber: ['39xxxxxxxxx','39****'], // Add your number without + or spaces (e.g., 919876543210)
     ownerName: ['Knight Bot Mini', 'Danexios'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
@@ -81,9 +81,9 @@ module.exports = {
     
     // Social Links (optional)
     social: {
-      github: 'https://github.com/mruniquehacker',
+      github: ' https://github.com/gghhhghhh712-coder/Danexios-os',
       instagram: 'https://instagram.com/yourusername',
-      youtube: 'http://youtube.com/@mr_unique_hacker'
+      youtube: ''
     }
 };
   
